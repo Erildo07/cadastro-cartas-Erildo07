@@ -10,7 +10,7 @@ int main() {
     printf("### Nivel novato ###\n");
     printf("-----***********---\n");
 
-    printf("-----Carta 1------\n");
+  // Área para exibição dos dados da cidadee
 
     char estado;
     char codigo[4];
@@ -72,4 +72,6 @@ int main() {
 
   
 return 0;
+
+  
 } 
